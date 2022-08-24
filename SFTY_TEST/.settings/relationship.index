@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_-MH7oCN9Ee2uGbqyz583hw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0xluICNtEe2uGbqyz583hw",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0xluICNtEe2uGbqyz583hw - airfares",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_6TIYMCN6Ee2uGbqyz583hw",
     "version" : "0.1",
     "type" : "job"
