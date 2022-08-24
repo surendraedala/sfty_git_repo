@@ -65,11 +65,11 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_0xluICNtEe2uGbqyz583hw",
+    "id" : "_UIQv4COLEe2tfNqEFPEV4A",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_0xluICNtEe2uGbqyz583hw - airfares",
+    "id" : "_UIQv4COLEe2tfNqEFPEV4A - metadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
