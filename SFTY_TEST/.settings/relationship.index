@@ -95,11 +95,11 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_0xluICNtEe2uGbqyz583hw",
+    "id" : "_3xb_ECOcEe2tfNqEFPEV4A",
     "version" : "Latest",
     "type" : "property"
   }, {
-    "id" : "_0xluICNtEe2uGbqyz583hw - sales",
+    "id" : "_3xb_ECOcEe2tfNqEFPEV4A - metadata",
     "version" : "Latest",
     "type" : "schema"
   } ]
